@@ -1,0 +1,38 @@
+* {
+    relleno: 0 %;
+    margen: 0;
+    color: aguamarina;
+    alinear texto: centro;
+    tamaño de fuente: 14 px;
+    font-family: 'Courier New', Courier, monoespacio;
+}
+
+html, cuerpo {
+    color de fondo: blanco;
+}
+
+.contenedor principal {
+    border: 4 px sólido rgb (24, 139, 216);
+    radio de borde: 10 px;
+    margen: 2 rem;
+    color de fondo: rgb (50, 50, 50);
+}
+
+nav, sección, pie de página, artículo, aparte {
+    border: 2 px sólido rgb (25, 122, 0);
+    margin: 1 rem;
+    radio de borde: 10 px;
+    acolchado: 1 rem;
+}
+
+artículo, aparte {
+    tamaño de fuente: 10 px;
+    ancho: 40 %;
+    pantalla: bloque en línea;
+    altura: 200 px;
+    color de fondo: rgb (10, 107, 107);
+}
+
+nav, sección, pie de página {
+    color de fondo: rgb (50, 7, 77);
+}
